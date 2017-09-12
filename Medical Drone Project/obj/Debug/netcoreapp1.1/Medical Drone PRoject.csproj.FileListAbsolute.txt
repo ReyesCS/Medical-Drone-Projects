@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\bin\Debug\netcoreapp1.1\Medical Drone PRoject.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\bin\Debug\netcoreapp1.1\Medical Drone PRoject.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\bin\Debug\netcoreapp1.1\Medical Drone PRoject.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\bin\Debug\netcoreapp1.1\Medical Drone PRoject.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\bin\Debug\netcoreapp1.1\Medical Drone PRoject.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\obj\Debug\netcoreapp1.1\Medical Drone PRoject.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\obj\Debug\netcoreapp1.1\Medical Drone PRoject.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\obj\Debug\netcoreapp1.1\Medical Drone PRoject.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Medical Drone PRoject\Medical Drone PRoject\obj\Debug\netcoreapp1.1\Medical Drone PRoject.pdb
